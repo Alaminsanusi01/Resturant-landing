@@ -55,7 +55,7 @@ export default function RestaurantLanding() {
               </div>
               <div className="relative">
                 <Image
-                  src="hero1.JPEG"
+                  src="/hero1.JPEG"
                   alt="Delicious Italian pasta dish with fresh herbs and tomatoes"
                   width={600}
                   height={500}
@@ -66,7 +66,7 @@ export default function RestaurantLanding() {
             </div>
           </div>
         </section>
-
+   
         {/* About Section */}
         <section id="about" className="py-16 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -118,7 +118,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="Pizza.JPEG"
+                    src="/Pizza.JPEG"
                     alt="Classic Margherita Pizza with fresh basil and mozzarella"
                     fill
                     loading="eager"
@@ -137,7 +137,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="cream.JPG"
+                    src="/cream.JPG"
                     alt="Homemade Fettuccine Alfredo with parmesan cheese"
                     fill
                     loading="eager"
@@ -156,7 +156,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="CAKE.JPEG"
+                    src="/CAKE.JPEG"
                     alt="Traditional Tiramisu dessert with coffee and mascarpone"
                     fill
                     loading="eager"
@@ -235,7 +235,7 @@ export default function RestaurantLanding() {
 
               <div className="bg-gray-100 rounded-lg p-8">
                 <h3 className="text-2xl font-semibold text-gray-900 mb-6">Find Us</h3>
-                <img src="MAP.JPEG" alt="" />
+                <img src="/MAP.JPEG" alt="" />
                 <div className="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
 
 
