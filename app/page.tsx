@@ -55,7 +55,7 @@ export default function RestaurantLanding() {
               </div>
               <div className="relative">
                 <Image
-                  src="HERO1.PNG"
+                  src="/HERO1.PNG"
                   alt="Delicious Italian pasta dish with fresh herbs and tomatoes"
                   width={600}
                   height={500}
