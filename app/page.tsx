@@ -118,7 +118,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="PIZZA.jpeg"
+                    src="/PIZZA.jpeg"
                     alt="Classic Margherita Pizza with fresh basil and mozzarella"
                     fill
                     loading="eager"
@@ -137,7 +137,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="CREAM.jpg"
+                    src="/CREAM.jpg"
                     alt="Homemade Fettuccine Alfredo with parmesan cheese"
                     fill
                     loading="eager"
