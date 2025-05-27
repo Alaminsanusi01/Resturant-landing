@@ -55,7 +55,7 @@ export default function RestaurantLanding() {
               </div>
               <div className="relative">
                 <Image
-                  src="/HERO.JPEG"
+                  src="HERO1.PNG"
                   alt="Delicious Italian pasta dish with fresh herbs and tomatoes"
                   width={600}
                   height={500}
@@ -118,7 +118,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="PIZZA.JPEG"
+                    src="PIZZA2.PNG"
                     alt="Classic Margherita Pizza with fresh basil and mozzarella"
                     fill
                     loading="eager"
@@ -126,7 +126,7 @@ export default function RestaurantLanding() {
                   />
                 </div>
                 <CardContent className="p-6">
-                  <h3 className="text-xl font-semibold text-gray-900 mb-2">Margherita Pizza</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 mb-2"></h3>
                   <p className="text-gray-600 mb-4">
                     Fresh mozzarella, San Marzano tomatoes, and basil on our signature wood-fired crust
                   </p>
@@ -137,7 +137,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="CREAM.JPG"
+                    src="CREAM2.PNG"
                     alt="Homemade Fettuccine Alfredo with parmesan cheese"
                     fill
                     loading="eager"
@@ -156,7 +156,7 @@ export default function RestaurantLanding() {
               <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                 <div className="relative h-48">
                   <Image
-                    src="CAKE.JPEG"
+                    src="CAKE2.PNG"
                     alt="Traditional Tiramisu dessert with coffee and mascarpone"
                     fill
                     loading="eager"
